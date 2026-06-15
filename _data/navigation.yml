@@ -10,11 +10,11 @@ main:
   - title: "About"
     url: /about/                    # The About Me page
 
-  #- title: "Publications"
-  #  url: /publications/           # Lists all files in /_publications/
+  - title: "Writing + Research"
+    url: /writing + research/           # Lists all files in /_publications/
 
-  #- title: "Talks"
-  #  url: /talks/                  # Lists all files in /_talks/
+  #- title: "Performances"
+  #  url: /performances/                  # Lists all files in /_talks/
 
   #- title: "Teaching"
   #  url: /teaching/               # Lists all files in /_teaching/
@@ -27,5 +27,5 @@ main:
 
   # ── How to add a link to an external site ─────────────────
   # Uncomment and edit the lines below:
-  # - title: "Google Scholar"
-  #   url: https://scholar.google.com/citations?user=YOURID
+   - title: "Volunteering"
+     url: https://innerview.org/prithikamajumdar
