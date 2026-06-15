@@ -12,7 +12,7 @@ baseurl: ""                            # Leave blank for a user/org site
 # ── Author (shows in sidebar and SEO) ────────────────────────
 author:
   name: "Prithika Majumdar"
-  avatar: "/images/themes/picforwebsite.webp"        # Upload your photo to /images/
+  avatar: "themes/picforwebsite.webp"        # Upload your photo to /images/
   bio: "I am a high school student interested in using STEM to help communities and make the world a better place."
   location: "Chicago, USA"
   email: "pmsummer2026@gmail.com"
