@@ -11,7 +11,7 @@ main:
     url: /about/                    # The About Me page
 
   - title: "Writing + Research"
-        url: /writing-research/              # Lists all files in /_publications/
+    url: /writing-research/                 # Lists all files in /_publications/
 
   #- title: "Performances"
   #  url: /performances/                  # Lists all files in /_talks/
