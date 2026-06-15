@@ -30,6 +30,9 @@ author:
     #  icon: "fab fa-fw fa-x-twitter"
     #  url: "https://twitter.com/yourusername"
 
+include:
+  - _pages
+
 # ── Build Settings ────────────────────────────────────────────
 # These tell Jekyll (the engine that builds your site) how to work.
 # You usually don't need to change these.
