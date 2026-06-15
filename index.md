@@ -4,12 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-Hi, I'm Prithika Majumdar! 👋
-
-I'm a high school student interning at the Department of Mechanical Engineering at Northwestern University, advised by Prof. Bahador Bahmani.
-
-When I'm not in school, I enjoy spending time with friends and family, doing anything music-related, reading, and talking about politics. I'm involved in the Debate Team at my school, acapella group, choir, and various honor societies.
-
 ## Research Interests
 
 - Large language models and their evaluation
