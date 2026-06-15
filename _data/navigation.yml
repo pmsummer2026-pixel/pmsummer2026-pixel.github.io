@@ -27,5 +27,5 @@ main:
 
   # ── How to add a link to an external site ─────────────────
   # Uncomment and edit the lines below:
-   - title: "Volunteering"
-     url: https://innerview.org/prithikamajumdar
+  - title: "Volunteering"
+    url: https://innerview.org/prithikamajumdar
