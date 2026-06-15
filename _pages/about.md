@@ -3,9 +3,8 @@ layout: single
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-permalink: /
+permalink: /about/
 redirect_from:
-  - /about/
   - /about.html
 ---
 
