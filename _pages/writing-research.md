@@ -4,22 +4,33 @@ title: "Writing + Research"
 permalink: /writing-research/
 ---
 ## Writing
-Definition Essay (defining a word or phrase): https://docs.google.com/document/d/1fyWatTnGBVK18DeM3y-vNsXReIrATvMIG87Palv1lGU/edit?usp=sharing
-Self-Designed Essay (an essay about any topic): https://docs.google.com/document/d/1C0SfRagtebeQp6NttToH1PT_ksiRI31_Aps8cMEWVdY/edit?usp=sharing
+
+[Definition Essay](https://tinyurl.com/2326mqlr) (defining a word or phrase)
+
+[Self-Designed Essay](https://tinyurl.com/2xpor2dg) (an essay about any topic)
 
 ## Debate Research/Prep
 
 **Economics**
-Tariffs: https://docs.google.com/document/d/1btUZNZaFCTESWvHanKDs-VFLeJBBlFcai88euJEm6L0/edit?tab=t.0
-Rent Caps: https://docs.google.com/document/d/1Tfz3O3ax6Ec77jwXxNUB7HBfrHAx9oSos-uFH4Yoe2Q/edit?usp=sharing
-National Wallet: https://docs.google.com/document/d/1uNHOiGgbU7ABZ9aO1pmc4Gjxpji1N9ruh9BIZGhWW3k/edit?usp=sharing
 
-**Foriegn Policy**
-Turkey: https://docs.google.com/document/d/1C6YhcOygThGZVm7HzPrKlorx-5H8L8rq2WsRqWyqxGc/edit?usp=sharing
-Yemen: https://docs.google.com/document/d/1BOUg-u61qF22HsMUOoUQIzuEhKjufcAv8DcY62irMPw/edit?usp=sharing
-Haiti: https://docs.google.com/document/d/1HtmuSNIJhmLQMONzHdgSn_v5wB6NVyJaOiNU-QPR7Fg/edit?usp=sharing
+[Tariffs](https://tinyurl.com/2dbo3k9r)
+
+[Rent Caps](https://tinyurl.com/26h7q3mq)
+
+[National Wallet](https://tinyurl.com/22rytl7k)
+
+**Foreign Policy**
+
+[Turkey](https://tinyurl.com/283vsove)
+
+[Yemen](https://tinyurl.com/29c3we5w)
+
+[Haiti](https://tinyurl.com/27gcqub5)
 
 **Public Welfare**
-CVI Programs: https://docs.google.com/document/d/1KgAO9-AqJZUBQiTGrjpMPxUpzRk7cPtnziFDpWv5_vE/edit?usp=sharing
-AI in Healthcare: https://docs.google.com/document/d/110NeFfxd-jVujKX2fhhTdaIpwQeFNxVo7tIPsfPiUYA/edit?usp=sharing
-ICBMs: https://docs.google.com/document/d/1g1FWfJRQTwGIJTWJgxE3aniQTttH2SMb1AeJXyqTdNg/edit?usp=sharing
+
+[CVI Programs](https://tinyurl.com/2ymavpjv)
+
+[AI in Healthcare](https://tinyurl.com/22ug2erg)
+
+[ICBMs](https://tinyurl.com/23ouftlh)
